@@ -1,5 +1,5 @@
 # Wine-Tasting 
-Full-stack web application logging wines you have tried with MySQL, Node, Esxpress, Handlebars and a self-created ORM (Object Relational Manager).
+Full-stack web application logging wines you have tried with MySQL, Node, Express, Handlebars and a self-created ORM (Object Relational Manager).
 
 ## Overview: 
 The Wine-Tasting app uses Node and MySQL to query and route data in the app and Handlebars to generate the HTML.
